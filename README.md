@@ -16,7 +16,7 @@ Result for graph1.txt :
 Graph: 
 0 | 1 2        - what other vertices 0 is connected to with an edge
 1 | 0 2
-2 | 0 1 3 4
+2 | 0 1 3 4a
 3 | 2 4
 4 | 3 2 5
 5 | 4
