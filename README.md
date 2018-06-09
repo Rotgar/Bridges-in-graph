@@ -1,7 +1,7 @@
 Commands:
 
-g++ -std=c++11 main.cpp -o prog
-./prog < Examples/graph1.txt
+g++ -std=c++11 main.cpp -o prog  
+./prog < Examples/graph1.txt   
 
 Graphs are given in .txt files as in /Examples.  
 First number at top is the number of vertices.  
