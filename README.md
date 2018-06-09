@@ -1,4 +1,4 @@
-commands:
+Commands:
 
 g++ -std=c++11 main.cpp -o prog
 ./prog < Examples/graph1.txt
